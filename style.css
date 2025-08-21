@@ -1,0 +1,183 @@
+  .main{
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+        margin-top: 20%;
+       
+       }
+        .container {
+             border-radius: 10px;
+           padding-left: 10px;
+      /* border: 2px solid red; */
+      height: 80px;
+      width: 800px;
+      display: flex;
+      background-color: black;
+     
+    }
+    .child1 {
+      display: flex;
+      padding: 20px;
+       color: white;
+     
+    }
+    .child2{
+        display: flex;
+         padding-left: 0px;
+         padding-top: 20px;
+          color: white;
+    }
+     .child3{
+        display: flex;
+         padding-left: 10px;
+         padding-top: 20px;
+         color: white;
+    }
+    .ch11{
+        position: relative;
+        font-size: 30px;
+    }
+    .pch11{
+        position: absolute;
+        padding-top: 20px;
+        
+    }
+      .ch22{
+        position: relative;
+        font-size: 30px;
+    }
+    .pch2{
+        position: absolute;
+        padding-top: 20px;
+        
+    }
+      .ch33{
+        position: relative;
+        font-size: 30px;
+    }
+    .pch3{
+        position: absolute;
+        padding-top: 20px;
+        
+    }
+    .child4{
+        display: flex;
+         padding-left: 30px;
+         padding-top: 20px;
+          color: white;
+    }
+      .ch44{
+        position: relative;
+        font-size: 30px;
+    }
+    .pch4{
+        position: absolute;
+        padding-top: 20px;
+        
+    }
+        .child5{
+        display: flex;
+         padding-left: 10px;
+         padding-top: 20px;
+          color: white;
+    }
+      .ch55{
+        position: relative;
+        font-size: 30px;
+      }
+    .pch5{
+        position: absolute;
+        padding-top: 20px;
+        
+    }
+        .child6{
+        display: flex;
+         padding-left: 10px;
+         padding-top: 20px;
+          color: white;
+    }
+      .ch66{
+        position: relative;
+        font-size: 30px;
+    }
+    .pch6{
+        position: absolute;
+        padding-top: 20px;
+        
+    }
+       .child7{
+        display: flex;
+         padding-left: 10px;
+         padding-top: 20px;
+          color: white;
+    }
+      .ch77{
+        position: relative;
+        font-size: 30px;
+    }
+    .pch7{
+        position: absolute;
+        padding-top: 20px;
+        
+    }
+       .child8{
+        display: flex;
+         padding-left: 10px;
+         padding-top: 20px;
+          color: white;
+    }
+      .ch88{
+        position: relative;
+        font-size: 30px;
+    }
+    .pch8{
+        position: absolute;
+        padding-top: 20px;
+        
+    }
+       .child9{
+        display: flex;
+         padding-left: 40px;
+         padding-top: 20px;
+          color: white;
+    }
+      .ch99{
+        position: relative;
+        
+        font-size: 30px;
+    }
+    .pch9{
+        position: absolute;
+        padding-top: 20px;
+        
+    }
+    .A{
+      display: flex;
+        justify-content: center;
+    }
+    .B{
+      border-radius: 0px 0px 5px 5px;
+      height: 30px;
+      width: 250px;
+      display: flex;
+      background-color:green;
+    }
+    .BB{
+      margin-top: 4px;
+      margin-left: 50px;
+    }
+    .C{
+       display: flex;
+        justify-content: center;
+    }
+    .CC{
+       border-radius: 0px 0px 5px 5px;
+      height: 30px;
+      width: 250px;
+      display: flex;
+      background-color:red;
+    }
+    .CCC{
+      margin-top: 4px;
+      margin-left: 100px;
+    }
